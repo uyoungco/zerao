@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-1 h-full flex-col items-center">
+  <div class="flex flex-col items-center justify-between" style="height: 100vh">
     <Logo />
     <logo-image class="logo-image"></logo-image>
     <div class="mt-5 md:mt-0 home-title text-white subpixel-antialiased text-center">
